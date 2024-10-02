@@ -2,8 +2,8 @@
 # Miraitowa的个人主页
 
 ---
+![我的照片](https://github.com/Arrebol-bi8bo/Arrebol-bi8bo.github.io/raw/main/photo.jpg)
 
-![我的照片](https://github.com/Arrebol-bi8bo/Arrebol-bi8bo.github.io/blob/main/photo.jpg)
 
 ## 个人简介
 
