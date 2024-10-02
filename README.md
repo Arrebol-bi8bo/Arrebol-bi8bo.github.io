@@ -1,4 +1,3 @@
-# Arrebol-bi8bo.github.io
 # Miraitowa的个人主页
 
 ---
